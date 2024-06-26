@@ -64,7 +64,7 @@ header{
   padding: 24px 0;
 }
 .estudante-div{
-  text-align: center;
+  text-align: start;
   padding: 24px 0;
 }
 .estudantes_todos{
@@ -91,8 +91,4 @@ header{
 .link{
   color: #ffffff;
   text-decoration: none;
-}
-.Aluno_1{
-  width: 120px;
-  display: flex;
 }

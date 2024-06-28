@@ -51,8 +51,9 @@ header{
 .estudante-nome{
   text-align: center;
 }
-.estudante-imagem{
+.estudante-imagem1{
   width: 120px;
+  justify-content: flex-start;
 }
 .estudante-icone{
   width: 38px;
